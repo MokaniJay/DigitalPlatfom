@@ -80,7 +80,7 @@ const AboutPage = () => {
 
   <section className="text-center mb-30 py-8 bg-yellow-900/50 rounded-lg border border-yellow-700">
           <h2 className="text-3xl font-bold text-yellow-400 mb-2">
-            Development In Progress
+            Development In Progress only desktop view is created responsive view is in progress
           </h2>
           <p className="text-lg text-yellow-200">
             Please note that the platform is currently **under active development**. This page structure and its contents serve as the **core vision and feature set** for the final product. We are working diligently to bring this professional service to you!
